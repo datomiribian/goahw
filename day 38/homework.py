@@ -1,0 +1,12 @@
+FILMS = ["честь дракона" , " ip man" , "ფორსაჟი" , "ფორსაჟ1" , "ფორსაჟი2" ,"ფორსაჟი3","ფორსაჟი4" ,"ფორსაჟი5","ფორსაჟი6","ფორსაჟი7"]
+print(FILMS)
+print(FILMS[0])
+print(FILMS[1])
+print(FILMS[2])
+print(FILMS[3])
+print(FILMS[4])
+print(FILMS[5])
+print(FILMS[6])
+print(FILMS[7])
+print(FILMS[8])
+print(FILMS[9])

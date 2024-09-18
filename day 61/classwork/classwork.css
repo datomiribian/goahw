@@ -1,0 +1,24 @@
+/*
+CSS Rule
+
+p - Selector, რასაც ვსტილავთ
+Declartion - Property/Value
+დეკლარაცია - კუთვნილებისა და მნიშვნელობის წყვილი
+
+*/
+.nigga{
+    text-align: center;
+color: red;
+background: #000;
+}
+.blacknigga{
+    text-align: center;
+    color: red;
+    background: #000;   
+}
+.whitenigga{
+
+   text-align: center;
+color: red;
+background: #000;
+}
