@@ -1,0 +1,33 @@
+/* .dato{
+    text-transform: capitalize;
+    text-decoration: underline;
+}
+.bb{
+text-transform: capitalize;
+text-decoration: underline;
+}
+.gg{
+    text-transform: lowercase;
+    text-decoration: underline;
+ text-shadow: 0px 15px 0px ;
+text-decoration: underline wavy;
+} */
+.goa{
+width: 200px; ;
+height: 200px;
+background-color: red;
+animation-name: test-anim ;
+animation-duration: 2s;
+animation-iteration-count: infinite;
+}
+@keyframes test-anim{
+    from{
+        transform: translateY(0px)
+    }
+to{
+    transform: translateY(200px);
+background-color: blue;
+border-radius: 50%;
+}
+
+}
